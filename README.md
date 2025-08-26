@@ -31,34 +31,6 @@ If integrated, the dashboard would include:
 
 ---
 
-##  Project Structure
-
-/
-├── frontend/
-│ ├── public/
-│ │ └── assets/images/
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── Hero.jsx, Team.jsx, Awards.jsx, Stats.jsx, Pricing.jsx, Brokerage.jsx, ProductPage.jsx, Signup.jsx, etc.
-│ │ ├── pages/
-│ │ │ └── HomePage.jsx, AboutPage.jsx, PricingPage.jsx
-│ │ └── App.jsx, index.js, etc.
-│ ├── package.json
-│ └── vite.config.js (or other build config)
-└── dashboard/ (if exists)
-├── src/components/
-│ └── Dashboard.jsx, Holdings.jsx, Orders.jsx, WatchList.jsx, DoughnutChart.jsx, VerticalGraph.jsx, etc.
-├── App.jsx, context files, routing, etc.
-└── package.json
-
-yaml
-Copy
-Edit
-
-*(This structure reflects component-based design in similar MERN implementations)* :contentReference[oaicite:2]{index=2}
-
----
-
 ##  Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14+ recommended)
