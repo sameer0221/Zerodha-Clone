@@ -128,7 +128,3 @@ Integrating charts and planning data-driven dashboard logic.
 
 👤 Sameer Lonare
 📧 lonaresameer7@gmail.com
-
-🔗 LinkedIn
-
-💻 GitHub
